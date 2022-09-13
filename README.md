@@ -45,14 +45,14 @@ day.csv
 
 
 ## Conclusions
-Company can continue with the stratergy used in 2019.
-They can offer a special discount on holidays for public to use bikes over other sevices.
-windspeed is a factor which can't be controlled by the company, so they can think another possible way to overcome this issue.
-They can offer coupons in spring season to encourage public to use bikes.
-Rainy weather is the most affecting weather for the comapny as people avoid going out on bikes in rainy season.
-Company should focus on expanding business during September.
-Based on previous data it is expected to have a boom in number of users once situation comes back to normal, compared to   2019.
-There would be less bookings during Light Snow or Rain, they could probably use this time to service the bikes without having business impact.
+- Company can continue with the stratergy used in 2019.
+- They can offer a special discount on holidays for public to use bikes over other sevices.
+- windspeed is a factor which can't be controlled by the company, so they can think another possible way to overcome this issue.
+- They can offer coupons in spring season to encourage public to use bikes.
+- Rainy weather is the most affecting weather for the comapny as people avoid going out on bikes in rainy season.
+- Company should focus on expanding business during September.
+- Based on previous data it is expected to have a boom in number of users once situation comes back to normal, compared to   2019.
+- There would be less bookings during Light Snow or Rain, they could probably use this time to service the bikes without having business impact.
 
 
 
