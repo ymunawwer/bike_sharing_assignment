@@ -34,7 +34,7 @@ The Top 3 features contributing significantly towards the demands of share bikes
 day.csv
 
 
-* [Technologies Used]
+## Technologies Used
 - pandas - version '1.3.4'
 - numpy - version '1.20.3'
 - matplotlib - version '3.4.3'
